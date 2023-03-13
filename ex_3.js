@@ -1,0 +1,6 @@
+// a) Numeros ímpares - 1,3,5,7,9
+// b) 2 elevado a n+1 - 2,4,8,16,32,64,128
+// c) sequencia dos quadrados perfeitos - 0,1,4,9,16,25,49
+// d) Números pares elevados ao quadrado - 4,16,36,64,100
+// e) Sequencia de fibonacci - 1, 1, 2, 3, 5, 8, 13
+// f) não sei qual a sequência 
